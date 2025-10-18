@@ -21,8 +21,3 @@ Used in fast lookup over structured tables such as database indexes, geographic 
 
 Tic Tac Toe with Board and Game  
 Mirrors how interactive systems separate model from controller. The pattern scales to games, user interfaces, and any app that manages state, rules, and user interaction.
-
-## How to compile and run
-
-### Homework 5
-Compile  
